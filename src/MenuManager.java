@@ -2,7 +2,11 @@
 public class MenuManager {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.println("1. create charater");
+		System.out.println("2. delete charater");
+		System.out.println("3. edit charater");
+		System.out.println("4. view charater");
+		System.out.println("5. exit");
 
 	}
 
